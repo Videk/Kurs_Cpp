@@ -45,8 +45,6 @@ int solution(int N)
             //counting = false;
             curr_gap = 0;
         }
-
-
     }
     return max_gap;
 }
