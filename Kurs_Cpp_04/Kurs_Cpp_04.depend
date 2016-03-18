@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456170503 source:d:\programy\code blocks\codeblocks\kurs_cpp\kurs_cpp_04\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
